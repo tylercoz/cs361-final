@@ -9,6 +9,25 @@ standard format called GeoJSON.
 Unfortunately, the tool (even though it works) suffers from bad
 engineering. You should fix it up and eliminate that technical debt.
 
+### Things to Watch For!
+
+* Don't Repeat Yourself (DRY) violations--common code, potential
+  subclassing.
+
+* Single Responsibility Principle (SRP) violations
+
+* Law of Demeter (LOD) violations.
+
+* Bad variable names.
+
+* Senseless comments.
+
+* Places common interfaces can help.
+
+Also:
+
+* Make the code look good! Does it read easily?
+
 ## Running
 
 You should be able to run it already:
