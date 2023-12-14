@@ -66,6 +66,9 @@ it should work even if the order of elements in the JSON is changed.
    quarter. Anything in the code can be changed, but the output should
    remain the same.
 
+   ALSO: Maintain a summary list of the changes that you made at the top
+   of this README!
+
 3. Commit and push your fork.
 
 4. Submit a link to your fork.
