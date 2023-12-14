@@ -18,6 +18,8 @@ engineering. You should fix it up and eliminate that technical debt.
 
 * Law of Demeter (LOD) violations.
 
+* Places where Dependency Injection (DI) can reduce coupling.
+
 * Bad variable names.
 
 * Senseless comments.
