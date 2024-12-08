@@ -1,3 +1,7 @@
+## Summary List of Changes
+
+ - Change whitespace for clarity
+
 ## GIS Tool
 
 Geographic Information Systems program.
@@ -48,7 +52,7 @@ the code:
 "icon": "dot"},"geometry":{"type":"Point","coordinates":[-121.5,45.6]}},
 {"type": "Feature","properties": {"title": "track 1"},"geometry": {"type
 ": "MultiLineString","coordinates": [[[45,-122],[46,-122],[46,-121]],[[4
-5,-121],[46,-121]]]}},{"type": "Feature","properties": {"title": "track 
+5,-121],[46,-121]]]}},{"type": "Feature","properties": {"title": "track
 2"},"geometry": {"type": "MultiLineString","coordinates": [[[45.5,-121],
 [45.5,-122]]]}}]}
 ```
