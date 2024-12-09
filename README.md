@@ -1,6 +1,13 @@
 ## Summary List of Changes
 
- - Change whitespace for clarity
+ - remove unecessary whitespace
+ - remove unecessary comments
+ - rename non-descript variable names
+ - replace parameter list with kwargs, more clear when calling function and handles nil implicitly
+ - make classes without methods into structs
+ - make JSON creation easier to understand and read
+ - remove unecessary classes (TrackSegment)
+ - rename variables for meaning
 
 ## GIS Tool
 
